@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">WiseOrganic</string>
+
+    <string name="btn_add">Add New Data</string>
+    <string name="add_title">Add Data</string>
+    <string name="add_description">Enter your data weight detail and evidence</string>
+    <string name="back_button">Back</string>
+
+    <string name="categories">Waste Categories</string>
+    <string name="wet_organic">Wet Organic (Food Waste)</string>
+    <string name="pet">Pet</string>
+    <string name="alumunium_can">Alumunium Can</string>
+    <string name="terra_pack">Tera Pack</string>
+    <string name="glass_bottle">Glass Bottle</string>
+    <string name="general_plastic">General Plastic Residue</string>
+    <string name="general_paper">General Paper Residue</string>
+    <string name="plastic_bag">Plastic Bag Liner</string>
+    <string name="candles">Candles</string>
+    <string name="slippers">Slippers</string>
+
+    <string name="weight">Weight (kg)</string>
+    <string name="input">Input</string>
+
+    <string name="camera_button">Open Camera</string>
+    <string name="gallery_button">Open Gallery</string>
+
+    <string name="login">Login</string>
+    <string name="login_description">Enter your username and password to login</string>
+
+    <string name="register">Register</string>
+    <string name="register_description">Enter your details to register</string>
+
+    <string name="dept">Department Name</string>
+    <string name="usn">Username</string>
+    <string name="pass">Password</string>
+    <string name="confirm_pass">Confirm Password</string>
+
+    <string name="dnt">Date and Time</string>
+    <string name="analysis">Analysis</string>
+    <string name="history">History</string>
+
+    <string name="anal_fragment">Hello Analysis fragment</string>
+    <string name="hist_fragment">Hello History fragment</string>
+</resources>

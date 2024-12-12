@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="btn_addnew">#253D2C</color>
+
+    <color name="btn_data">#2E6F40</color>
+    <color name="btn_camera">#68BA7F</color>
+    <color name="bg_data">#EFF1EF</color>
+    <color name="icon_data">#253D2C</color>
+
+    <color name="bg_login">#253D2C</color>
+    <color name="btn_login">#68BA7F</color>
+
+    <color name="bg_register">#2E6F40</color>
+    <color name="btn_register">#253D2C</color>
+
+    <color name="bg_btntab">#253D2C</color>
+
+    <color name="bg_card">#EFF1EF</color>
+</resources>
